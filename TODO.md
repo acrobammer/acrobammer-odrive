@@ -1,0 +1,2 @@
+- [ ] Create a Sensor folder, referenced in Tupfile.lua, with source for MPU6050 and HMC5883L (use MaEvArM code as example)
+- [ ] Choose control algorithm
